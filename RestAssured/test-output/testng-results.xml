@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-08T12:08:37 IST" name="Suite" finished-at="2024-08-08T12:08:43 IST" duration-ms="5743">
+    <groups>
+    </groups>
+    <test started-at="2024-08-08T12:08:37 IST" name="Test Batch1" finished-at="2024-08-08T12:08:43 IST" duration-ms="5743">
+      <class name="RestAssuredDemo.CreateRepo">
+        <test-method signature="createProjectwithoutBDD()[pri:0, instance:RestAssuredDemo.CreateRepo@6aecbb8d]" started-at="2024-08-08T12:08:37 IST" name="createProjectwithoutBDD" finished-at="2024-08-08T12:08:40 IST" duration-ms="2681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProjectwithoutBDD -->
+        <test-method signature="getAllUsers()[pri:1, instance:RestAssuredDemo.CreateRepo@6aecbb8d]" started-at="2024-08-08T12:08:40 IST" name="getAllUsers" finished-at="2024-08-08T12:08:40 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUsers -->
+        <test-method signature="singleuserwithoutBDD()[pri:2, instance:RestAssuredDemo.CreateRepo@6aecbb8d]" started-at="2024-08-08T12:08:40 IST" name="singleuserwithoutBDD" finished-at="2024-08-08T12:08:40 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleuserwithoutBDD -->
+        <test-method signature="patch()[pri:3, instance:RestAssuredDemo.CreateRepo@6aecbb8d]" started-at="2024-08-08T12:08:40 IST" name="patch" finished-at="2024-08-08T12:08:41 IST" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patch -->
+        <test-method signature="update()[pri:4, instance:RestAssuredDemo.CreateRepo@6aecbb8d]" started-at="2024-08-08T12:08:41 IST" name="update" finished-at="2024-08-08T12:08:42 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method signature="delete()[pri:5, instance:RestAssuredDemo.CreateRepo@6aecbb8d]" started-at="2024-08-08T12:08:42 IST" name="delete" finished-at="2024-08-08T12:08:42 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="createprojectwithBDD()[pri:6, instance:RestAssuredDemo.CreateRepo@6aecbb8d]" started-at="2024-08-08T12:08:42 IST" name="createprojectwithBDD" finished-at="2024-08-08T12:08:43 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createprojectwithBDD -->
+        <test-method signature="getAllProject()[pri:7, instance:RestAssuredDemo.CreateRepo@6aecbb8d]" started-at="2024-08-08T12:08:43 IST" name="getAllProject" finished-at="2024-08-08T12:08:43 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllProject -->
+        <test-method signature="deletewithBDD()[pri:8, instance:RestAssuredDemo.CreateRepo@6aecbb8d]" started-at="2024-08-08T12:08:43 IST" name="deletewithBDD" finished-at="2024-08-08T12:08:43 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletewithBDD -->
+        <test-method signature="singleUserwithBDD()[pri:8, instance:RestAssuredDemo.CreateRepo@6aecbb8d]" started-at="2024-08-08T12:08:43 IST" name="singleUserwithBDD" finished-at="2024-08-08T12:08:43 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleUserwithBDD -->
+      </class> <!-- RestAssuredDemo.CreateRepo -->
+    </test> <!-- Test Batch1 -->
+  </suite> <!-- Suite -->
+</testng-results>
